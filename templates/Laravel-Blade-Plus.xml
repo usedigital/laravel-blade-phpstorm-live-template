@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="Laravel-Blade-Plus">
   <template name="@elseif" value="@elseif ($START$)&#10;    $SELECTION$$END$" description="Blade @elseif" toReformat="false" toShortenFQNames="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
